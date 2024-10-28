@@ -1,0 +1,2 @@
+# mysample
+software management
